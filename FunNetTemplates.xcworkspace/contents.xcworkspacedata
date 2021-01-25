@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:swift5/libraries"
+      name = "libraries">
+      <Group
+         location = "group:alamofire"
+         name = "alamofire">
+         <FileRef
+            location = "group:AlamofireImplementations.mustache">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:urlsession"
+         name = "urlsession">
+         <FileRef
+            location = "group:URLSessionImplementations.mustache">
+         </FileRef>
+      </Group>
+   </Group>
+   <FileRef
+      location = "group:swift5/APIHelper.mustache">
+   </FileRef>
+   <FileRef
+      location = "group:swift5/APIs.mustache">
+   </FileRef>
+   <FileRef
+      location = "group:swift5/Cartfile.mustache">
+   </FileRef>
+   <FileRef
+      location = "group:swift5/CodableHelper.mustache">
+   </FileRef>
+   <FileRef
+      location = "group:swift5/Configuration.mustache">
+   </FileRef>
+   <FileRef
+      location = "group:swift5/Extensions.mustache">
+   </FileRef>
+   <FileRef
+      location = "group:swift5/git_push.sh.mustache">
+   </FileRef>
+   <FileRef
+      location = "group:swift5/JSONDataEncoding.mustache">
+   </FileRef>
+   <FileRef
+      location = "group:swift5/JSONEncodingHelper.mustache">
+   </FileRef>
+   <FileRef
+      location = "group:swift5/Models.mustache">
+   </FileRef>
+   <FileRef
+      location = "group:swift5/OpenISO8601DateFormatter.mustache">
+   </FileRef>
+   <FileRef
+      location = "group:swift5/SynchronizedDictionary.mustache">
+   </FileRef>
+   <FileRef
+      location = "group:swift5/_param.mustache">
+   </FileRef>
+   <FileRef
+      location = "group:swift5/api_doc.mustache">
+   </FileRef>
+   <FileRef
+      location = "group:swift5/api.mustache">
+   </FileRef>
+   <FileRef
+      location = "group:swift5/gitignore.mustache">
+   </FileRef>
+   <FileRef
+      location = "group:swift5/model_doc.mustache">
+   </FileRef>
+   <FileRef
+      location = "group:swift5/model.mustache">
+   </FileRef>
+   <FileRef
+      location = "group:swift5/modelArray.mustache">
+   </FileRef>
+   <FileRef
+      location = "group:swift5/modelEnum.mustache">
+   </FileRef>
+   <FileRef
+      location = "group:swift5/modelInlineEnumDeclaration.mustache">
+   </FileRef>
+   <FileRef
+      location = "group:swift5/modelObject.mustache">
+   </FileRef>
+   <FileRef
+      location = "group:swift5/Package.swift.mustache">
+   </FileRef>
+   <FileRef
+      location = "group:swift5/Podspec.mustache">
+   </FileRef>
+   <FileRef
+      location = "group:swift5/README.mustache">
+   </FileRef>
+   <FileRef
+      location = "group:swift5/XcodeGen.mustache">
+   </FileRef>
+</Workspace>
